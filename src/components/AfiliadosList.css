@@ -1,0 +1,122 @@
+h2 {
+    margin-left: 20px;
+}
+
+h3 {margin-left: 20px;}
+
+h4 {margin-left: 20px;}
+
+p {
+    margin-left: 40px;
+    color: #333333;
+}
+
+li {
+    list-style: none;
+    margin-left: 40px;
+    border: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(91, 91, 117);
+    
+}
+
+.fecha-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuenta-container {
+    margin-left: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    border: 1px solid gray;
+    width: 190px;
+}
+
+.info-container {
+    margin-top: 20px;
+    margin-left: 25%;
+    padding: 5px;
+    background-color:aliceblue;
+    width: 50%;
+}
+
+.info-container h3 {
+    margin: 10px
+}
+
+.searchbar-container {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 25%;
+    margin-left: 40%;
+    background-color:aliceblue;
+
+}
+
+.searchbar-container div {
+    margin-left: 18%;
+}
+
+.searchbar-container input{
+    margin-left: 20px;
+}
+
+.modal {
+    position: center;
+    width: 100%;
+    height: 26%;
+}
+
+.modal-content {
+    background-color: #fff; /* Fondo blanco */
+    padding: 20px;
+    margin: 20%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
+.acciones-div {
+    background-color:rgb(255, 255, 255);
+    border: 1px solid gray;
+    width: 190px;
+    padding: 5px;
+}
+
+.tabla-reportes {
+    background-color: rgb(255, 255, 255);
+}
+
+.tabla-reportes table {
+    width: 100%;
+}
+
+.tabla-reportes th{
+    border-bottom: 1px solid;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: auto; 
+    padding-left: auto;
+    text-align: center;
+    padding-left: 10px; 
+}
+
+.tabla-reportes td{
+    background-color: white;
+    width: auto; 
+}
+
+.monto {
+    color:#8b4513 ;
+    width: auto; 
+    font-weight: 600;
+    text-align: right;
+}
+
+
+
+

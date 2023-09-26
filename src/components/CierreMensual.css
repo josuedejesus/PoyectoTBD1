@@ -1,0 +1,9 @@
+.date-container {
+    background-color:aliceblue;
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center;
+}
+

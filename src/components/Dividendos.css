@@ -1,0 +1,28 @@
+.container-datos {
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.date-container {
+    background-color:aliceblue;
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+.container-datos table{
+    width: 100%;
+}
+
+.container-datos th{
+    border-bottom: 1px solid;
+}
+
+.container-datos td{
+    text-align: center;
+}
+
+.tr-totales {
+    font-weight: bold;
+}

@@ -1,0 +1,37 @@
+.form-container {
+    margin: 10px;
+    margin-left: 30%;
+    background-color:aliceblue;
+    padding: 10px;
+    width: 40%;
+}
+
+.form-group input {
+    margin-left: 30px;
+    width: 30%;
+}
+
+
+.form-group p {
+    margin-left: 30%;
+}
+
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-right: 35%;
+}
+
+.form-group label {
+    color: #333333;
+    font-weight: 600;
+    flex: 1;
+    text-align: right;
+}
+
+.form-group button {
+    margin-left: 120%;
+}
+
